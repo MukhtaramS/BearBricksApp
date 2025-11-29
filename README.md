@@ -10,4 +10,3 @@ A Swift-based machine learning project where users can explore different BearBri
 
 - Custom-trained ML model with high accuracy on a small curated dataset
 
-- Simple, clean interface for quick discovery
